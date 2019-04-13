@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">READ_BOOK</string>
+
+    <string name="open">Mo</string>
+    <string name="close">Dong</string>
+
+    //nội dung
+    <string name="trang1">Tôi nghèo... Đúng ! Vì tôi chưa giàu !! Nhưng 10 năm nữa gặp lại, chưa biết ai sẽ giàu hơn ai.\n
+    Chàng trai cay đắng nói rồi quay lưng bõ đi trước cặp mắt của tất cả mọi người ở đó. Cô là tiểu thư con nhà giàu, con tôi chỉ là một thằng sinh viên nghèo không môn đăng hộ đối.\n
+    Một thời gian sau, nhà cô gặp biến cố và phá sản... cô phải trở thành một cố gái bán rau ngoài chợ.\n
+    Mười năm sau, cô đang loay hoay dọn hàng rau về nhà cho kịp trời tối, bỗng dưng.. trước mặt cô là một người đàn ông bước đến và dừng lại. Cô chết lặng, tim đập liên hồi, hơi thở gấp gáp... Đúng là khuôn mặt ấy, nụ cười ấy làm sao cô quên được. Anh vẫn kiên nhẫn nở một nụ cười và đưa tay về phía cô !!\n
+    Cô cười chua xót móc vội mấy đồng trong ví dúi vào tay anh "thế quái nào giờ lại thành một thằng ăn xin thế này".\n\n</string>
+    <string name="trang2">Vào lúc 11 giờ trưa nay mình ra ngoài mua ít đá về pha nước uống. Chính mình tận mắt chứng kiến chị chủ cửa hàng lấy đá cho vào túi thật. Vậy mà chỉ tầm 20phut sau về tới nhà thì thấy túi đá biến thành túi nước.\n
+    Mình không biết họ làm bằng cách nào nữa mọi người ạ???\n
+    Các bạn bấy giờ ra ngoài mua đá cần hết sức cẩn trọng với thủ đoạn như thế này nhé. Xã hội bây giờ ma thuật khó lường ghê!\n\n</string>
+    <string name="trang3">Gửi vợ tương lai...\n
+    Dù anh chưa biết em là ai đang làm gì hay em đang ở đâu nữa? Nhưng anh muốn báo cho em một tin là hằng ngày anh vẫn lang thang phiêu bạt giang hồ để tìm em nhưng chưa đủ duyên để gặp. Hiện tại anh đang sống tốt và mạnh khỏe, vẫn chuẩn mực không rượi chè, cờ bạc, gái gú và tất nhiên là đang FA\n
+    Anh đang cố gắng tập trung đi làm để kiếm tiền cho cuộc sống sau này cho anh, cho em và cho gia đình nhỏ của chúng ta.\n
+    Hẹn gặp em trong thời gian sớm nhất, sắp thay đổi thời tiết rồi nhớ giữ gìn sức khỏe em nhé..\n
+    Anh ghét sự giả dối, yêu màu tím.\n
+    Nếu vô tình có thấy stt của anh viết thì em vào like cho anh một cái. Còn em àm cảm nhận được thì comment mốt cái nha vợ tương lai của anh\n\n</string>
+    <string name="trang4">Anh và cô yêu nhau từ thời đại học. Ra trường cô không muốn cả đời chung sống với một kẻ tầm thường nên quyết định chia tay.\n
+    Anh buồn, nhưng anh cố gắng vượt qua tất cả, trời không phụ lòng người, năm năm sau anh làm nên sự nghiệp, cô gặp anh lúc cả hai cùng quá khổ. Thành công rồi lòng anh cũng chỉ có cô. Còn cô lấy được chồng giàu có, sống sung túc, nhưng hạnh phúc thì không, chồng cô đi công tác biền biệt.\n
+    Rồi hai người gặp nhau trong lần họp lớp. Đi họp lớp biết có cô. Anh cố tình ăn mặc cực khổ. Bạn cùng lớp đều ngạc nhiên.\n
+    Sau này anh mới tâm sự: "tôi muốn cô ấy sẽ hài lòng hơn về cuộc sống hiện tại của mình". Người bạn chỉ biết im lặng không biết nói gì.\n
+    Phải yêu đến đâu mới có thể bao dung như vậy. Anh lại nói thêm: "Đắc ý khi thấy người mình yêu bất hạnh, thật sự tôi không làm được, chỉ cần tinh thần cô ấy tốt là được rồi". Gần tan tiệc họp lớp thì chồng cô tới rước cô về, nhìn thấy anh trong bộ dạng nghèo khổ mà chồng cô hoảng hốt: Sếp! Sếp làm cái gì mà ăn mặc như thằng ăng máy thế này.\n\n</string>
+</resources>
